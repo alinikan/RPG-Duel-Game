@@ -18,6 +18,8 @@ A turn-based 1v1 RPG duel game where players can create characters from a select
 
 The RPG Duel game allows players to choose from a selection of classes such as Mage, Priest, or Warrior. Each class has unique abilities and characteristics. Players can engage in strategic combat, utilizing their special abilities, which consume resources like energy or mana.
 
+https://github.com/alinikan/RPG-Duel-Game/assets/67564972/bddffee7-eba6-473f-8dc2-0f6d48209c54
+
 ## Features
 
 - Multiple character classes with unique abilities.
